@@ -59,20 +59,20 @@ Here  are  a  few   things  I've  picked  up  along  my  learning  journey.
 
 
 
-or give some ♥ on [mail](mailto:sultanparvez77.sp@gmail.com)
+or give some ♥ on [mail](mailto:sultan.parvez@dsinnovators.com)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=fahimdipto/fahimdipto)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=sultan-parvez/sultan-parvez)
 
 ## Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sultanparvez" alt="sultanparvez" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sultan-parvez" alt="sultan-parvez" /></a> </p>
 
 
 
 ## Github Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sultanparvez&show_icons=true&locale=en&layout=compact" alt="sultanparvez" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sultan-parvez&show_icons=true&locale=en&layout=compact" alt="sultan-parvez" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sultanparvez&show_icons=true&locale=en" alt="sultanparvez" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sultan-parvez&show_icons=true&locale=en" alt="sultan-parvez" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sultanparvez&" alt="sultanparvez" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sultan-parvez&" alt="sultan-parvez" /></p>
 
