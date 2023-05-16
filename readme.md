@@ -1,18 +1,18 @@
 ## Hi, I am Sultan Parvez :sagittarius:
 
-A motivated software engineer, who enjoys taking on new challenges. I'm not afraid to venture down new paths. I love to create new things and always wanting to learn more, highly interested in contributing to open source. Worked professionally with a variety of automation frameworks. I'm also familiar with React, Express, Mongoose, and MongoDB. I've also worked on a number of machine learning and IoT projects.
+As a seasoned Software Quality Assurance (SQA) Engineer, I have expertise in automation using tools such as Cypress, Selenium, Appium, and Robot Framework, as well as proficiency in programming languages like Java, Python, and JavaScript. Also, I am experienced in API testing using Postman and performance testing with JMeter. I am committed to learning new technologies and tools to optimize the software testing process and ensure exceptional product quality. With a keen eye for detail and effective problem-solving skills, I work closely with stakeholders to deliver projects on time and meet or surpass customer expectations. Additionally, I am familiar with the MERN stack.
 
 ## ⚡ Tech Stack
 
 Here  are  a  few   things  I've  picked  up  along  my  learning  journey.
 
-  ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) ![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white) ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white) ![Chai](https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white)
+  ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white) ![Chai](https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white)
   
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
    
    ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![NestJS](https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)  
    
-  ![](https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white) ![](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white) ![](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+  ![Keras](https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white) ![Numpy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
   
   ![](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white) ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
   
@@ -34,22 +34,19 @@ Here  are  a  few   things  I've  picked  up  along  my  learning  journey.
  
 ![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
- ![]("https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white") 
- 
-
 
 ## Hobbies & Biscuits 
 <p>
-  <img width="200" alt="hello!" align="left" src="https://giffiles.alphacoders.com/956/9562.gif">
+  <img  width="200" alt="hello!" align="left" src="https://giffiles.alphacoders.com/956/9562.gif">
 </p>
 
- FPS Games | Battle Royal Games | Arena Game 
+FPS Games | Battle Royal Games | Arena Game 
  
- Anime | TV Series
+Anime | TV Series
  
- Manga | Comics
+Manga | Comics
  
- From Dhaka, Bangladesh
+From Dhaka, Bangladesh
 
 ## Social Media
 <a href="https://www.linkedin.com/in/sultanparvez"><img height="20" src="https://camo.githubusercontent.com/a25943975d6716ea349a4e41c4f05c027dc6da74/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f75726c3f636f6c6f723d253233303037326231266c6162656c3d636f6e6e656374266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d253233303037326231267374796c653d666c61742d7371756172652675726c3d68747470732533412532462532467777772e6c696e6b6564696e2e636f6d253246696e253246616c656a616e64726f2d72616d6972657a2d63696365726f73253246"></a>
@@ -60,10 +57,18 @@ Here  are  a  few   things  I've  picked  up  along  my  learning  journey.
 
 or give some ♥ on [mail](mailto:sultanparvez77.sp@gmail.com)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=sultan-parvez/sultan-parvez)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=sultanparvez/sultanparvez)
 
 ## Github Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sultan-parvez&" alt="sultan-parvez" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sultanparvez&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="sultanparvez" /></p>
+ -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sultanparvez&show_icons=true&locale=en&theme=blue-green" alt="sultanparvez" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sultanparvez&theme=blue-green" alt="sultanparvez" /></p>
+
+
+
+
 
 
