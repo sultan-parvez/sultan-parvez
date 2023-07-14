@@ -57,4 +57,4 @@ From Dhaka, Bangladesh
 
 or give some ♥ on [mail](mailto:sultanparvez77.sp@gmail.com)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=sultanparvez/sultanparvez)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=sultan-parvez/sultan-parvez)
